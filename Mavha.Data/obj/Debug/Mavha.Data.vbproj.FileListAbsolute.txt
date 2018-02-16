@@ -1,0 +1,10 @@
+c:\users\mabud\source\repos\Mavha\Mavha.Data\bin\Debug\Mavha.Data.dll
+c:\users\mabud\source\repos\Mavha\Mavha.Data\bin\Debug\Mavha.Data.pdb
+c:\users\mabud\source\repos\Mavha\Mavha.Data\bin\Debug\Mavha.Data.xml
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.Resources.resources
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.vbproj.GenerateResource.Cache
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.vbproj.CoreCompileInputs.cache
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.dll
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.xml
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.pdb
+c:\users\mabud\source\repos\Mavha\Mavha.Data\obj\Debug\Mavha.Data.vbprojResolveAssemblyReference.cache

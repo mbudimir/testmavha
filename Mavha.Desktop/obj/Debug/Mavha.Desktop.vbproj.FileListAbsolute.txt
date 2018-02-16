@@ -1,0 +1,12 @@
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\bin\Debug\Mavha.Desktop.exe.config
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\bin\Debug\Mavha.Desktop.exe
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\bin\Debug\Mavha.Desktop.pdb
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\bin\Debug\Mavha.Desktop.xml
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.Home.resources
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.Resources.resources
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.vbproj.GenerateResource.Cache
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.vbproj.CoreCompileInputs.cache
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.exe
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.xml
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.pdb
+c:\users\mabud\source\repos\Mavha\Mavha.Desktop\obj\Debug\Mavha.Desktop.frmNuevaPersona.resources

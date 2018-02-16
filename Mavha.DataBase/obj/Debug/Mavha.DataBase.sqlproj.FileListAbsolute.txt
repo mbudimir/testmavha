@@ -1,0 +1,9 @@
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\bin\Debug\Mavha.DataBase.dacpac
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\bin\Debug\Mavha.DataBase.dll
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\bin\Debug\Mavha.DataBase.pdb
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\Model.xml
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\refactor.xml
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\postdeploy.sql
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\predeploy.sql
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\Mavha.DataBase.dll
+c:\users\mabud\source\repos\Mavha\Mavha.DataBase\obj\Debug\Mavha.DataBase.pdb
